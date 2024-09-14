@@ -13,7 +13,7 @@
             <a class="nav-link" href="/author">Author</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Rating</a>
+            <a class="nav-link" href="/rating">Rating</a>
           </li>
           <li class="nav-item">
             <a class="nav-link disabled" aria-disabled="true">Disabled</a>
